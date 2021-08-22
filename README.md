@@ -2,6 +2,17 @@
 https://forgin-iron.atlassian.net/wiki/spaces/FIRSTSPACE/overview
 
 
+### Steps to deploy and install for production environment ready app
+
+> forge deploy -e production
+> forge install -e production
+> Y
+
+### logging debugging
+
+> forge logs
+
+
 # Forge Hello World (Typescript)
 
 This project contains a Forge app written in Typescript that displays `Hello World!` in a Confluence macro. 
