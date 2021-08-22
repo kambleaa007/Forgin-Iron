@@ -1,0 +1,12 @@
+modules:
+  macro:
+    - key: forginiron-hello-world
+      function: main
+      title: ForginIron
+      description: Inserts Hello world!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/54fe4f03-49d7-4bf2-8e88-da037cd11e0e
+  name: ForginIron
